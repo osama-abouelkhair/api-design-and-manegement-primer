@@ -1,4 +1,4 @@
-# api-design-manegement-primer
+# api-design-and-manegement-primer
 ### 1. **Fundamental API Concepts**
 #### Introduction
 - **RESTful APIs**: Understand the principles of REST (Representational State Transfer) and its constraints like statelessness, uniform interface, and resource-based operations (GET, POST, PUT, DELETE).
